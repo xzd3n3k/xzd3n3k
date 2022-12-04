@@ -6,6 +6,7 @@ Information Technology at Brno University of Technology, Czech Republic
 Software Developer at University Hospital in Brno
 <br>
 Frontend Developer at eos media s.r.o.
+<br>
 <b>
 
   
