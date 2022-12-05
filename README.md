@@ -50,7 +50,7 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xzd3n3k&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
-  [![Zdeněk's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xzd3n3k&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=false)](https://github.com/xzd3n3k)
+  [![Zdeněk's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xzd3n3k&langs_count=10&layout=compact&theme=radical&hide_border=true)](https://github.com/xzd3n3k)
 
   *NOTE: **Most Used Languages** do not indicate skill level or anything like that. It is a GitHub metric of which languages have the most code at my GitHub repositories.*
 </div>
