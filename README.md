@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="mailto:xzdeneknemec@outlook.cz">
     <img src="https://img.shields.io/badge/mail-white?logo=microsoftoutlook&logoColor=blue&style=for-the-badge" alt="Microsoft Outlook Mail Badge"/>
+  <a href="https://discordapp.com/users/410676997115871243">
+    <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
 </div>
     
 <div align="center">
