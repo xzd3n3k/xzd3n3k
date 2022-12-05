@@ -9,7 +9,6 @@ Frontend Developer at eos media s.r.o.
 <br>
 <br>
 <b>
-{{2+3}}
   
 [![Zdeněk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzd3n3k&count_private=true&hide=none&show_icons=true&theme=radical&include_all_commits=true&disable_animations=true)](https://github.com/xzd3n3k)
 
