@@ -20,7 +20,7 @@
     
 <div align="center">
   <b>
-  20 years old
+  21 years old
   <br>
   Information Technology at Brno University of Technology, Czech Republic
   <br>
