@@ -22,8 +22,6 @@
   <b>
   21 years old
   <br>
-  Information Technology at Brno University of Technology, Czech Republic
-  <br>
   Frontend Developer at OKsystem a.s.
   <br>
   <b>
