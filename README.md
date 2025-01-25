@@ -20,7 +20,7 @@
     
 <div align="center">
   <b>
-  21 years old
+  22 years old
   <br>
   Frontend Developer at OKsystem a.s.
   <br>
