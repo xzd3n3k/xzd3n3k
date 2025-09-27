@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/zdenek-nemec/)">
+  <a href="https://www.linkedin.com/in/hypextream/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="mailto:xzdeneknemec@outlook.cz">
     <img src="https://img.shields.io/badge/mail-white?logo=microsoftoutlook&logoColor=blue&style=for-the-badge" alt="Microsoft Outlook Mail Badge"/>
