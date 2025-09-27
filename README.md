@@ -5,10 +5,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hypextream/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="mailto:xzdeneknemec@outlook.cz">
-    <img src="https://img.shields.io/badge/mail-white?logo=microsoftoutlook&logoColor=blue&style=for-the-badge" alt="Microsoft Outlook Mail Badge"/>
-  <a href="https://discordapp.com/users/410676997115871243">
-    <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
 </div>
     
 <div align="center">
@@ -27,19 +23,7 @@
   <b>
 </div>
 
-<hr> 
 <br>
-    
-<div align="center">
- 
-  [![Zdeněk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzd3n3k&count_private=true&hide=none&show_icons=true&theme=radical&include_all_commits=true&disable_animations=true&hide_border=true)](https://github.com/xzd3n3k)
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xzd3n3k&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  
-  [![Zdeněk's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xzd3n3k&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true)](https://github.com/xzd3n3k)
-
-  *NOTE: **Most Used Languages** do not indicate skill level or anything like that. It is a GitHub metric of which languages have the most code at my GitHub repositories.*
-</div>
 
 <hr>
     
