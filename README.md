@@ -16,9 +16,9 @@
     
 <div align="center">
   <b>
-  22 years old
+  23 years old
   <br>
-  Frontend Developer at OKsystem a.s.
+  Frontend Developer at Legito
   <br>
   <b>
 </div>
